@@ -1,0 +1,16 @@
+# Vivado
+*.cache
+*.hw
+*.runs
+*.sim
+*.ip_user_files
+*.gen
+*.log
+*.jou
+*.str
+*.dcp
+*.backup
+*~
+/_x/
+/.Xil/
+/project_*/
