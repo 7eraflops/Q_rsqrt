@@ -14,3 +14,9 @@
 /_x/
 /.Xil/
 /project_*/
+
+# Additional Vivado/Vitis Ignore Rules
+*.xsa
+*.pb
+.metadata/
+/workspace/
